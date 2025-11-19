@@ -3,9 +3,9 @@
 <h1 align="left">Olá, Tudo Bem ?</h1>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" style="height: 195px;" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElielDelfino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" style="height: 195px;" alt="languages graph"/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" style="height: 195px; width: 400px; display: inline-block;" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElielDelfino&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=radical&hide_border=false&order=2" style="height: 195px; width: 400px; display: inline-block;" alt="languages graph"/>
 </div>
 
 ###
