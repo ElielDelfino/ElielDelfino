@@ -5,8 +5,9 @@ Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ElielDelfino&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElielDelfino&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&theme=blueberry&count_private=true&hide_border=true&line_height=20" style="height:180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielDelfino&layout=compact&theme=blueberry&count_private=true&hide_border=true" style="height:180px"/>
+  
 </details>
 
 # <h1 align="left">Minhas Habilidades</h1>
