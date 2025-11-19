@@ -3,10 +3,12 @@
 <h1 align="left">Olá, Tudo Bem ?</h1>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150px"alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElielDelfino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150px" alt="languages graph"/>
-</div>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 ###
 
