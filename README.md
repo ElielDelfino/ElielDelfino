@@ -1,11 +1,11 @@
 <hr>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there%20👋&reversal=true&textBg=false&section=header&fontSize=55&animation=fadeIn&fontAlign=50"/>
+<h1 align="left">Olá, Tudo Bem ?</h1>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElielDelfino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" style="height: 195px;" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElielDelfino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" style="height: 195px;" alt="languages graph"/>
 </div>
 
 ###
@@ -42,13 +42,5 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
-
-
-<img src="https://raw.githubusercontent.com/ElielDelfino/ElielDelfino/output/snake.svg" alt="Snake animation" />
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&section=footer&fontSize=55&fontAlign=50"/>
 <hr>
 
