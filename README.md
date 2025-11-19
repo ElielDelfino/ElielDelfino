@@ -1,7 +1,6 @@
-<hr>
+# Olá, Tudo Bem ?👋.
 
-<h1 align="left">Olá, Tudo Bem ?👋</h1>
-Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
+Check out my [portfolio](https://thijs.gg).
 
 <details>
   <summary>Github Stats ⚡</summary>
@@ -10,11 +9,7 @@ Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElielDelfino&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
-###
-
-###
-
-<h1 align="left">Minhas Habilidades</h1>
+# <h1 align="left">Minhas Habilidades</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,5 +39,5 @@ Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-<hr>
+
 
