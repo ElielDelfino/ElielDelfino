@@ -22,7 +22,7 @@
 
 <h2 align="left">Sobre Mim</h2>
 
-- 🚀 Desenvolvedor em formação  
+- 🚀 Desenvolvedor FullStack 
 - 🎯 Buscando oportunidades na área  
 - 💡 Apaixonado por tecnologia e resolução de problemas  
 - 🎯 Objetivo: crescer profissionalmente na área de tecnologia
@@ -32,9 +32,9 @@
 <h2 align="left">Entre em Contato</h2>
 
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-  [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/seu-perfil)
-  [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://seu-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-delfino-45300b2a1)
+  [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/guinhooh)
+  [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-eliel-delfino.onrender.com)
 
 
 
