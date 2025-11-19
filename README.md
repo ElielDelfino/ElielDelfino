@@ -1,6 +1,6 @@
 # Olá, Tudo Bem ?👋.
 
-Check out my [portfolio]([https://thijs.gg](https://portfolio-eliel-delfino.onrender.com).
+Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
 
 <details>
   <summary>Github Stats ⚡</summary>
