@@ -5,8 +5,8 @@ Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&theme=blueberry&count_private=true&hide_border=true&line_height=20" style="height:180px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielDelfino&layout=compact&theme=blueberry&count_private=true&hide_border=true" style="height:180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElielDelfino&theme=blueberry&count_private=true&hide_border=true&line_height=20" height=200 align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielDelfino&layout=compact&theme=blueberry&count_private=true&hide_border=true" height=200 align="center"/>
   
 </details>
 
