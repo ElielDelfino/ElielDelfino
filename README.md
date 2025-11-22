@@ -29,7 +29,7 @@ Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
 
 <h2 align="left">Entre em Contato</h2>
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-brandalise/](https://www.linkedin.com/in/eliel-delfino-45300b2a1/))
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/eliel-delfino-45300b2a1/))
   [![instagran](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/guinhoohh)
 
 
