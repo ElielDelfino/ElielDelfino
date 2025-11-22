@@ -29,9 +29,7 @@ Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
 
 <h2 align="left">Entre em Contato</h2>
 
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/eliel-delfino-45300b2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliel-delfino-45300b2a1/" height="30" width="40" /></a>
-<a href="https://instagram.com/guinhoohh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guinhoohh" height="30" width="40" /></a>
-</p>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-brandalise/](https://www.linkedin.com/in/eliel-delfino-45300b2a1/))
+  [![instagran](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/guinhoohh)
 
 
