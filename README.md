@@ -1,6 +1,9 @@
 # Olá, Tudo Bem ?👋.
 
-Check out my [portfolio](https://portfolio-eliel-delfino.onrender.com).
+Check out my 
+<a href="https://portfolio-eliel-delfino.onrender.com" target="_blank" rel="noopener noreferrer">
+  portfolio
+</a>.
 
 <details>
   <summary>Github Stats ⚡</summary>
