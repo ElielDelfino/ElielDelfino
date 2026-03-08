@@ -23,7 +23,7 @@ Check out my
 
 <h2 align="left">Sobre Mim</h2>
 
-- 🚀 Desenvolvedor FullStack 
+- 🚀 Desenvolvedor DevOps
 - 🎯 Buscando oportunidades na área  
 - 💡 Apaixonado por tecnologia e resolução de problemas  
 - 🎯 Objetivo: crescer profissionalmente na área de tecnologia
